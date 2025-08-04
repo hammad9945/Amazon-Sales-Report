@@ -49,4 +49,5 @@ This project is ideal for beginners and intermediate users of Power BI, offering
 ### Screenshot of Amazon sales report
 Link
 * https://github.com/hammad9945/Amazon-Sales-Report/blob/main/Amazon-Sales-Report.png
+* https://github.com/hammad9945/Amazon-Sales-Report/blob/main/Amazon-Sales-Report.png
 
